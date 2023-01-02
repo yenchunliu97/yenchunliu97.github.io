@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: classic
+  theme_night: classic
+  font: classic
   font_size: L
 
 # SEO
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/yenchunliu97/yenchunliu97.github.io'
     content_dir: content
     branch: main
   avatar:
