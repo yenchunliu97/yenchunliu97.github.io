@@ -1,8 +1,7 @@
 ---
 title: Yen-Chun Liu
 role: Statistics PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,37 +10,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yenchunliu97
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/yen-chun-liu-02906b1b0/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke University
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD student in Statistics
+      institution: Duke University
+      year: ""
+    - course: M.S. in Statistics
+      institution: National Tsing-Hua University
+      year: 2019
+    - course: B.S. in Mathematics
+      institution: National Taiwan University
       year: 2008
 superuser: true
 status:
@@ -49,8 +39,5 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: yenchun.liu@duke.edu
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
