@@ -1,7 +1,7 @@
 ---
 title: Yen-Chun Liu
 role: Statistics PhD Student
-bio: ""
+bio: to be filled
 interests:
   - Artificial Intelligence
   - Computational Linguistics
