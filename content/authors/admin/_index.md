@@ -3,9 +3,7 @@ title: Yen-Chun Liu
 role: Statistics PhD Student
 bio: to be filled
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - .
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,8 +31,8 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Liu
 highlight_name: true
-first_name: Alice
+first_name: Yen-Chun
 email: yenchun.liu@duke.edu
 ---
