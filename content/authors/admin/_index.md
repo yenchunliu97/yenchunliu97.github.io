@@ -9,10 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: yenchun.liu@duke.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/yenchunliu97
@@ -32,7 +29,7 @@ education:
       year: 2019
     - course: B.S. in Mathematics
       institution: National Taiwan University
-      year: 2008
+      year: 2019
 superuser: true
 status:
   icon: ☕️
