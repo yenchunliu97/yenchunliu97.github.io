@@ -1,6 +1,6 @@
 ---
 title: Yen-Chun Liu
-role: testing
+role: Statistics PhD student
 bio: to be filled
 interests:
   - .
