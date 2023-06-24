@@ -223,10 +223,10 @@ sections:
     id: others
     content:
       title: More about me
-      cta_alt:
+      cta:
         label: CV
         url: https://drive.google.com/file/d/1Y5gu54CZxGOOEGvociO_ALSohpUqlsik/view?usp=sharing
-      cta_alt:
+      cta:
         label: CV of failures
         url: https://drive.google.com/file/d/15xqYo6W4Lxp-1sWPrRLG-Md9eBvO7tU_/view?usp=sharing
     
