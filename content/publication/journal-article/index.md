@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1111/biom.13778"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biometrics"
+publication: "*Biometrics*"
 publication_short: ""
 
 abstract: Leveraging information in aggregate data from external sources to improve estimation efficiency and prediction accuracy with smaller scale studies has drawn a great deal of attention in recent years. Yet, conventional methods often either ignore uncertainty in the external information or fail to account for the heterogeneity between internal and external studies. This article proposes an empirical likelihood-based framework to improve the estimation of the semiparametric transformation models by incorporating information about the t-year subgroup survival probability from external sources. The proposed estimation procedure incorporates an additional likelihood component to account for uncertainty in the external information and employs a density ratio model to characterize population heterogeneity. We establish the consistency and asymptotic normality of the proposed estimator and show that it is more efficient than the conventional pseudopartial likelihood estimator without combining information. Simulation studies show that the proposed estimator yields little bias and outperforms the conventional approach even in the presence of information uncertainty and heterogeneity. The proposed methodologies are illustrated with an analysis of a pancreatic cancer study.
