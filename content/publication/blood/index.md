@@ -1,4 +1,3 @@
-
 ---
 title: "Clinical Outcomes and Salvage Therapies in Patients with Relapsed/Refractory Multiple Myeloma Following Progression on BCMA-Targeted CAR-T Therapy"
 authors:
@@ -28,7 +27,7 @@ doi: "https://doi.org/10.1182/blood-2022-160401"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Blood, 140(Supplement 1)"
+publication: "*Blood, 140(Supplement 1)*"
 publication_short: ""
 
 abstract:  We performed a single-center retrospective analysis of RRMM pts who received any BCMA CAR-T therapy between January 2017 and June 2022, including pts treated on clinical trials and those who received standard-of-care idecabtagene vicleucel or ciltacabtagene autoleucel. Demographic and disease-related characteristics prior to CAR-T infusion were collected. Progression-free survival (PFS), overall survival (OS), overall response rates (ORR) defined as partial response or better by International Myeloma Working Group criteria, and minimal residual disease (MRD) negativity were evaluated. Subgroup analysis of those who had PD after BCMA CAR-T was performed to assess overall survival (OS) from time of PD and types of salvage regimens utilized including ORR and treatment duration for subsequent line therapies. Time-to-event analysis was conducted using Kaplan-Meier methods.
