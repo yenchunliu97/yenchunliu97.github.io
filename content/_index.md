@@ -225,7 +225,7 @@ sections:
       title: More about me
       cta:
         label: CV of failures
-        url: https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf
+        url_pdf: https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf
     
 #  - block: collection
 #    id: talks
