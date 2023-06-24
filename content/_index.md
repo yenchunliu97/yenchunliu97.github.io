@@ -220,14 +220,12 @@ sections:
       view: citation
 
   - block: hero
-    id: others
+    id: CV
     content:
-      title: More about me
-      text: -| <a href="/uploads/resume.pdf" target="_blank"> CV </a>
-     
-      cta_alt:
-        label: CV of failures
-        url: https://drive.google.com/file/d/15xqYo6W4Lxp-1sWPrRLG-Md9eBvO7tU_/view?usp=sharing
+      title: CV
+      text:
+        - <a href="/uploads/resume.pdf" target="_blank"> CV </a>
+        - <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a>
     
 #  - block: collection
 #    id: talks
