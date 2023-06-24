@@ -217,15 +217,18 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citatio
+      view: citation
 
   - block: hero
     id: others
     content:
       title: More about me
-      cta:
+      cta_alt:
+        label: CV
+        url: https://drive.google.com/file/d/1Y5gu54CZxGOOEGvociO_ALSohpUqlsik/view?usp=sharing
+      cta_alt:
         label: CV of failures
-        url: https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf
+        url: https://drive.google.com/file/d/15xqYo6W4Lxp-1sWPrRLG-Md9eBvO7tU_/view?usp=sharing
     
 #  - block: collection
 #    id: talks
