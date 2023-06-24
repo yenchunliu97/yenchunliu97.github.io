@@ -224,8 +224,8 @@ sections:
     content:
       title: CV
       text:
-         <a href="/uploads/resume.pdf" target="_blank"> CV </a>
-         <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a>
+      Here are my   <a href="/uploads/resume.pdf" target="_blank"> CV </a> and 
+         <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a>.
     
 #  - block: collection
 #    id: talks
