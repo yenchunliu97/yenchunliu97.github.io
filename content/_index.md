@@ -223,7 +223,7 @@ sections:
     id: CV
     content:
       title: CV
-#      text:
+      text:
          <a href="/uploads/resume.pdf" target="_blank"> CV </a>
          <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a>
     
