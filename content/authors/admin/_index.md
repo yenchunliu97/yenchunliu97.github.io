@@ -22,7 +22,7 @@ organizations:
     url: https://stat.duke.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: To be filled
+bio: I am a second year Statistics PhD student at Duke University.
 
 # Interests to show in About widget
 interests:
@@ -34,8 +34,8 @@ interests:
 education:
   courses:
     - course: PhD student in Statistical Science
-      institution: Duke University
-      year: since 2022
+      institution: Duke University, United States
+      year: 2022 -
     - course: MS in Statistics
       institution: National Tsing Hua University, Taiwan
       year: 2022
@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-To be filled
+I am a second-year PhD student in statistics at Duke University. I am currently developing my research interests in the areas regarding surrogate modeling, Bayesian optimization, causal inference, and reinforcement learning. Before joining Duke, I worked with Professor <a href="http://www.stat.nthu.edu.tw/~ycheng/" target="_blank"> Yu-Jen Cheng </a> and Professor <a href="https://profiles.ucsf.edu/chiung-yu.huang" target="_blank"> Chiung-Yu Huang </a> on a project centered around combining heterogeneous survival information using an empirical likelihood approach.
+
+Besides studying statistics, I enjoy engaging in outdoor activities and reading during my free time. I am also passionate about various social issues including environmental sustainability and gender equality.
 {style="text-align: justify;"}
