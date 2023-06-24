@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD student in Statistical Science
       institution: Duke University
-      year: 2022 - 
+      year: since 2022
     - course: MS in Statistics
       institution: National Tsing Hua University, Taiwan
       year: 2022
