@@ -223,9 +223,7 @@ sections:
     id: others
     content:
       title: More about me
-      filters:
-        folders:
-          - others
+      + [CV of failure](https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf)
 #  - block: collection
 #    id: talks
 #    content:
