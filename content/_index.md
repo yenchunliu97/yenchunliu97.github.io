@@ -219,13 +219,13 @@ sections:
       columns: '2'
       view: citation
 
-   - block: collection
-     id: others
-     content:
-       title: More about me
-       filters:
-         folders:
-           - others
+  - block: collection
+    id: others
+    content:
+      title: More about me
+      filters:
+        folders:
+          - others
 #  - block: collection
 #    id: talks
 #    content:
