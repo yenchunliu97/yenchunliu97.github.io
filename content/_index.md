@@ -217,14 +217,15 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: citatio
 
   - block: collection
     id: others
     content:
       title: More about me
-      cta: CV of failures
-      url: https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf
+      cta:
+        label: CV of failures
+        url: https://github.com/yenchunliu97/yenchunliu97.github.io/blob/main/static/uploads/CV_failure.pdf
 #  - block: collection
 #    id: talks
 #    content:
