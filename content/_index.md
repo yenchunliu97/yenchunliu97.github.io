@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: Yen-Chun Liu
 date: 2023-06-24
-type: landing
+type: widget_page
 
 sections:
 #  - block: hero
