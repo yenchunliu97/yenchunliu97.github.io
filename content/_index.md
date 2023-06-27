@@ -232,7 +232,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Mentor
-          company: Undergraduate Summer Statistics Workshop
+          company: Undergraduate Summer Statistics Workshop, Duke University
           company_url: ''
           location: North Carolina
           date_start: '2023-05-15'
