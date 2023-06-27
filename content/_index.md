@@ -239,7 +239,14 @@ sections:
           date_start: '2023-05-15'
           date_end: '2023-05-26'
           description: Mentoring a group of 5 undergraduate students analyzing a Chinese given name dataset.
-   
+        - title: Teaching Assistant
+          company: STA 101 Data Analysis and Statistical Inference, Duke University
+          company_url: ''
+          company_logo: duke
+          location: North Carolina
+          date_start: '2023-01-01'
+          date_end: '2023-05-31'
+          description: Grading, holding office hour, and  leading an 1 hour lab weekly
     design:
       columns: '2'
 
