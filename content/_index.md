@@ -247,7 +247,6 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: Grading, holding office hour, and  leading an 1 hour lab weekly
-
         - title: Teaching Assistant
           company: STA 661 Survival Analysis, National Tsing Hua University
           company_logo: NTHU
@@ -256,7 +255,6 @@ sections:
           date_start: '2022-01-01'
           date_end: '2022-06-30'
           description: Grading and holding office hour
-
         - title: Teaching Assistant
           company: MATH 120 Calculus A (I) & (II), National Taiwan University
           company_logo: NTU
