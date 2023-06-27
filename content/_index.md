@@ -220,7 +220,6 @@ sections:
       view: citation
 
   - block: Experience
-    id: teaching
     content:
       date_format: Jan 2006
       title: Teaching
