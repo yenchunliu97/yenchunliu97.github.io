@@ -220,6 +220,7 @@ sections:
       view: citation
 
   - block: experience
+    id: teaching
     content:
       title: Teaching
       # Date format for experience
