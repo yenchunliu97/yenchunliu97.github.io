@@ -223,7 +223,7 @@ sections:
     id: CV
     content:
       title: CV
-      text:   Here are my   <a href="/uploads/resume.pdf" target="_blank"> CV </a> and 
+      text:   Here are my   <a href="/uploads/CV_2023_06.pdf" target="_blank"> CV </a> and 
          <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a>.
     
 #  - block: collection
