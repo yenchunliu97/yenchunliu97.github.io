@@ -247,6 +247,14 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: Grading, holding office hour, and  leading an 1 hour lab weekly
+        - title: Teaching Assistant
+          company: STA 661 Survival Analysis, National Tsing Hua University
+          company_url: ''
+          company_logo: NTHU
+          location: Taiwan
+          date_start: '2022-01-01'
+          date_end: '2022-06-30'
+          description: Grading and holding office hour
     design:
       columns: '2'
 
