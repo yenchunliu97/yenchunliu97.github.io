@@ -233,6 +233,7 @@ sections:
       items:
         - title: Graduate Mentor
           company: Undergraduate Summer Statistics Workshop, Duke University
+          company_logo: duke
           company_url: ''
           location: North Carolina
           date_start: '2023-05-15'
