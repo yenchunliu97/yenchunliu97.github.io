@@ -252,7 +252,7 @@ sections:
           description: Grading and holding office hour
 
         - title: Teaching Assistant
-          company:MATH 120 Calculus A (I) & (II), National Taiwan University
+          company: MATH 120 Calculus A (I) & (II), National Taiwan University
           company_url: ''
           company_logo: NTU
           location: Taiwan
