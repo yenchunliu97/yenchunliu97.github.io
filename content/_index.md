@@ -234,12 +234,10 @@ sections:
         - title: Graduate Mentor
           company: Undergraduate Summer Statistics Workshop
           company_url: ''
-          company_logo: duke
           location: North Carolina
           date_start: '2023-05-15'
           date_end: '2023-05-26'
           description: Mentoring a group of 5 undergraduate students analyzing a Chinese given name dataset.
-    
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
