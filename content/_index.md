@@ -217,7 +217,51 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: citation
+
+  - block: Experience
+    id: teaching
+    content:
+      title: Teaching
+      items:
+        - title: Graduate Mentor
+           company: Undergraduate Summer Statistics Workshop, Duke Univeristy
+           company_url: ''
+           company_logo: duke
+           location: North Carolina
+           date_start: '2023-05-15'
+           date_end: '2023-05-26'
+           description: Mentoring a group of 5 undergraduate students analyzing a Chinese given name dataset.
+                
+        - title: Teaching Assistant
+          company: STA 101 Data Analysis and Statistical Inference, Duke University
+          company_url: ''
+          company_logo: duke
+          location: North Carolina
+            date_start: '2023-01-01'
+            date_end: '2023-05-31'
+            description: Grading, holding office hour, and  leading an 1 hour lab weekly
+
+        - title: Teaching Assistant
+          company: STA 661 Survival Analysis, National Tsing Hua University
+          company_url: ''
+          company_logo: NTHU
+          location: Taiwan
+            date_start: '2022-01-01'
+            date_end: '2022-06-30'
+            description: Grading and holding office hour
+
+        - title: Teaching Assistant
+          company:MATH 120 Calculus A (I) & (II), National Taiwan University
+          company_url: ''
+          company_logo: NTU
+          location: Taiwan
+            date_start: '2018-09-01'
+            date_end: '2019-06-30'
+            description: Lecturing an 1 hour TA session weekly, designing quiz and homework, grading, and holding office hour
+
+      design:
+        columns: '2'
 
   - block: hero
     id: CV
