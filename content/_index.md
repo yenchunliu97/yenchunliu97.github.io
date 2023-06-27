@@ -255,6 +255,14 @@ sections:
           date_start: '2022-01-01'
           date_end: '2022-06-30'
           description: Grading and holding office hour
+        - title: Teaching Assistant
+          company: MATH 120 Calculus A (I) & (II), National Taiwan University
+          company_url: ''
+          company_logo: NTU
+          location: Taiwan
+          date_start: '2018-09-01'
+          date_end: '2019-06-30'
+          description: Lecturing an 1 hour TA session weekly, designing quiz and homework, grading, and holding office hour
     design:
       columns: '2'
 
