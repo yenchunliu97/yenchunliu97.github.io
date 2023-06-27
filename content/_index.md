@@ -222,6 +222,7 @@ sections:
   - block: Experience
     id: teaching
     content:
+      date_format: Jan 2006
       title: Teaching
       items:
         - title: Graduate Mentor
@@ -260,8 +261,8 @@ sections:
             date_end: '2019-06-30'
             description: Lecturing an 1 hour TA session weekly, designing quiz and homework, grading, and holding office hour
 
-      design:
-        columns: '2'
+    design:
+      columns: '2'
 
   - block: hero
     id: CV
