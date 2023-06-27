@@ -82,5 +82,5 @@ highlight_name: true
 
 I am a second-year PhD student in statistics at Duke University. I am currently developing my research interests in the fields of surrogate modeling, Bayesian optimization, causal inference, and reinforcement learning. Before joining Duke, I worked with Professor <a href="http://www.stat.nthu.edu.tw/~ycheng/" target="_blank"> Yu-Jen Cheng </a> and Professor <a href="https://profiles.ucsf.edu/chiung-yu.huang" target="_blank"> Chiung-Yu Huang </a> on a paper about combining heterogeneous survival information using an empirical likelihood approach.
 
-Besides studying statistics, I enjoy engaging in outdoor activities and reading during my free time. I am also passionate about various social issues including environmental sustainability and social justice. test
+Besides studying statistics, I enjoy engaging in outdoor activities and reading during my free time. I am also passionate about various social issues including environmental sustainability and social justice. 
 {style="text-align: justify;"}
