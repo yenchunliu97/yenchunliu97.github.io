@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year PhD student in statistics at <a href="https://stat.duke.edu" target="_blank"> Duke University</a>. Currently, I am developing my research interests in the fields of Bayesian optimization, Gaussian processes, and reinforcement learning. Before joining Duke, I worked with Professor <a href="http://www.stat.nthu.edu.tw/~ycheng/" target="_blank"> Yu-Jen Cheng </a> and Professor <a href="https://profiles.ucsf.edu/chiung-yu.huang" target="_blank"> Chiung-Yu Huang </a> on a paper about combining heterogeneous survival information using an empirical likelihood approach.
+I am a second-year PhD student in statistics at <a href="https://stat.duke.edu" target="_blank"> Duke University</a>. Currently, I am developing my research interests in the fields of Bayesian optimization, Gaussian processes, and reinforcement learning. Before joining Duke, I worked with Professor <a href="http://www.stat.nthu.edu.tw/~ycheng/" target="_blank"> Yu-Jen Cheng </a> and Professor <a href="https://profiles.ucsf.edu/chiung-yu.huang" target="_blank"> Chiung-Yu Huang </a> on a paper about improving estimation of the transformation model by leveraging external heterogeneous information.
 
 Besides studying statistics, I enjoy engaging in outdoor activities and reading. I am also passionate about various social issues including environmental sustainability and social equity. 
 {style="text-align: justify;"}
