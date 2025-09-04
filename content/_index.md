@@ -232,6 +232,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching Assistant
+          company: Duke University
+          company_url: ''
+          company_logo: duke
+          location: North Carolina
+          date_start: '2023-01-01'
+          date_end: 'Present'
+          description: STA 532 Theory of Statistical Inference, STA 561 Probabilistics Machine Learning, STA 332 Statistical Inference
+
         - title: Graduate Mentor
           company: Undergraduate Summer Statistics Workshop, Duke University
           company_logo: duke
@@ -241,29 +250,21 @@ sections:
           date_end: '2023-05-26'
           description: Mentoring a group of 5 undergraduate students analyzing a Chinese given name dataset.
         - title: Teaching Assistant
-          company: STA 101 Data Analysis and Statistical Inference, Duke University
-          company_url: ''
-          company_logo: duke
-          location: North Carolina
-          date_start: '2023-01-01'
-          date_end: '2023-05-31'
-          description: Grading, holding office hour, and  leading an 1 hour lab weekly
-        - title: Teaching Assistant
-          company: STA 661 Survival Analysis, National Tsing Hua University
+          company: National Tsing Hua University
           company_url: ''
           company_logo: NTHU
           location: Taiwan
           date_start: '2022-01-01'
           date_end: '2022-06-30'
-          description: Grading and holding office hour
+          description:  STA 661 Survival Analysis
         - title: Teaching Assistant
-          company: MATH 120 Calculus A (I) & (II), National Taiwan University
+          company: National Taiwan University
           company_url: ''
           company_logo: NTU
           location: Taiwan
           date_start: '2018-09-01'
           date_end: '2019-06-30'
-          description: Lecturing an 1 hour TA session weekly, designing quiz and homework, grading, and holding office hour
+          description: MATH 120 Calculus A (I) & (II)
     design:
       columns: '2'
 
@@ -272,8 +273,7 @@ sections:
     id: CV
     content:
       title: CV
-      text:   Here are my <a href="/uploads/CV_2023_10.pdf" target="_blank"> CV </a> and 
-         <a href="/uploads/CV_failure.pdf" target="_blank"> CV of failures </a> (October, 2023). 
+      text:   Here are my <a href="/uploads/CV_2025_09.pdf" target="_blank"> CV </a> (September, 2025). 
 #  - block: collection
 #    id: talks
 #    content:
