@@ -275,7 +275,7 @@ sections:
     id: CV
     content:
       title: CV
-      text:   Here are my <a href="/uploads/CV_2025_09.pdf" target="_blank"> CV </a> (October, 2023). 
+      text:   My <a href="/uploads/CV_2025_09.pdf" target="_blank"> CV </a> (September, 2025). 
 #  - block: collection
 #    id: talks
 #    content:
