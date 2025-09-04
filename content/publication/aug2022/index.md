@@ -1,21 +1,22 @@
 ---
-title: "OAB-051: Salvage therapies and clinical outcomes after relapse following BCMA CAR-T in patients with relapsed/refractory multiple myeloma"
+title: "Salvage therapies including retreatment with BCMA-directed approaches after BCMA CAR-T relapses for multiple myeloma"
 authors:
 - Kevin R Reyes
 - admin
 - Chiung-Yu Huang
 - Rahul Banerjee
 - Thomas Martin
-- Nina Shah
 - Sandy Wong
 - Jeffrey Wolf
 - Shagun Arora
+- Nina Shah
+- Chari, Ajai
 - Alfred Chung
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2022-08-22"
-doi: "https://doi.org/10.1016/S2152-2650(22)00324-X"
+date: "2024-04-29"
+doi: "https://doi.org/10.1182/bloodadvances.2023012066"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -27,10 +28,10 @@ doi: "https://doi.org/10.1016/S2152-2650(22)00324-X"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Clinical Lymphoma Myeloma and Leukemia*"
+publication: "*Blood Advances*"
 publication_short: ""
 
-# abstract:  We performed a single-center retrospective analysis of RRMM pts who received any BCMA CAR-T therapy between January 2017 and June 2022, including pts treated on clinical trials and those who received standard-of-care idecabtagene vicleucel or ciltacabtagene autoleucel. Demographic and disease-related characteristics prior to CAR-T infusion were collected. Progression-free survival (PFS), overall survival (OS), overall response rates (ORR) defined as partial response or better by International Myeloma Working Group criteria, and minimal residual disease (MRD) negativity were evaluated. Subgroup analysis of those who had PD after BCMA CAR-T was performed to assess overall survival (OS) from time of PD and types of salvage regimens utilized including ORR and treatment duration for subsequent line therapies. Time-to-event analysis was conducted using Kaplan-Meier methods.
+# abstract:  For patients with relapsed/refractory multiple myeloma with a relapse after B-cell maturation antigen (BCMA)–directed chimeric antigen receptor T-cell therapy (CAR-T), optimal salvage treatment strategies remain unclear. BCMA-directed CAR-T and bispecific antibodies (BsAbs) are now commercially available, and the outcomes for retreatment with BCMA-directed approaches are not well studied. We performed a retrospective analysis of 68 patients with relapsed disease after BCMA-directed CAR-T to evaluate outcomes and responses to salvage therapies. With a median follow-up of 13.5 months, median overall survival from time of relapse until death was 18 months (95% confidence interval [CI], 13.2 to not reached [NR]). Fifty-eight patients received subsequent myeloma-directed therapies, with a total of 265 lines of therapy (LOTs). The overall response rate for firstline salvage therapy was 41% (95% CI, 28-55). Among all LOTs, high response rates were observed among those receiving another BCMA-directed CAR-T (89%), BCMA-directed BsAbs (60%), CD38-directed combinations (80% when combined with BsAb; 50% when combined with immunomodulatory drugs and/or proteasome inhibitors), and alkylator-combinations (50% overall; 69% with high-dose alkylators). Thirty-four patients received at least 1 line of salvage BCMA-directed therapy; median progression-free survival was 8.3 months (95% CI, 7.9 to NR), 3.6 months (95% CI, 1.4 to NR), and 1 month (95% CI, 0.9 to NR) with median duration of response (DOR) of 8 months, 4.4 months, and 2.8 months for subsequent BCMA-directed CAR-T, BsAb, and belantamab mafadotin, respectively. Retreatment with BCMA-directed CAR-T and BsAbs can be effective salvage options after BCMA-directed CAR-T relapse; however, DORs appear limited, and further studies with new combinations and alternative targets are warranted.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
