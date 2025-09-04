@@ -238,7 +238,7 @@ sections:
           company_logo: duke
           location: North Carolina
           date_start: '2023-01-01'
-          date_end: 'Present'
+          date_end: ''
           description: STA 532 Theory of Statistical Inference, STA 561 Probabilistics Machine Learning, STA 332 Statistical Inference
 
         - title: Graduate Mentor
@@ -273,8 +273,7 @@ sections:
     id: CV
     content:
       title: CV
-      text:   Here are my <a href="/uploads/CV_2025_09.pdf" target="_blank"> CV </a> (September, 2025). 
-#  - block: collection
+      text:   Here are my <a href="/uploads/CV_2023_10.pdf" target="_blank"> CV </a> (September 2025). #  - block: collection
 #    id: talks
 #    content:
 #      title: Recent & Upcoming Talks
