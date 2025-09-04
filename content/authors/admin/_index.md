@@ -22,7 +22,7 @@ organizations:
     url: https://stat.duke.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year Statistics PhD student at Duke University.
+bio: I am a second year Statistics PhD student at Duke University.
 
 # Interests to show in About widget
 interests:
@@ -81,15 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-
-# Short bio (displayed in user profile at end of posts)
-bio: I am a second year Statistics PhD student at Duke University.
-
-highlight_name: true
----
-
 I am a second-year PhD student in statistics at <a href="https://stat.duke.edu" target="_blank"> Duke University</a>. Currently, I am developing my research interests in the fields of Bayesian optimization, Gaussian processes, and reinforcement learning. Before joining Duke, I worked with Professor <a href="http://www.stat.nthu.edu.tw/~ycheng/" target="_blank"> Yu-Jen Cheng </a> and Professor <a href="https://profiles.ucsf.edu/chiung-yu.huang" target="_blank"> Chiung-Yu Huang </a> on a paper about improving estimation of the transformation model by leveraging external heterogeneous information.
-
 
 Besides studying statistics, I enjoy engaging in outdoor activities and reading. I am also passionate about various social issues including environmental sustainability and social equity. 
 {style="text-align: justify;"}
